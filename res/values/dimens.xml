@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="text_size_min">10.0sp</dimen>
+    <dimen name="text_size_micro">12.0sp</dimen>
+    <dimen name="text_size_small">14.0sp</dimen>
+    <dimen name="text_size_less">16.0sp</dimen>
+    <dimen name="text_size_nomal">18.0sp</dimen>
+    <dimen name="text_size_big">20.0sp</dimen>
+    <dimen name="text_size_large">22.0sp</dimen>
+    <dimen name="normal_radius">10.0px</dimen>
+    <dimen name="more_marginlr">15.0dip</dimen>
+</resources>
