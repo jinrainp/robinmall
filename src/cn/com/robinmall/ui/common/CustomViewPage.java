@@ -7,7 +7,7 @@ public class CustomViewPage extends RelativeLayout{
 
 	public CustomViewPage(Context context) {
 		super(context);
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub...
 	}
 
 }
